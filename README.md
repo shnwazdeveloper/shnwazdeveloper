@@ -16,8 +16,7 @@
   <img src="https://raw.githubusercontent.com/vanshgulati16/vanshgulati16/main/animated-line-train-github.gif" width="100%" alt="Animated Line" />
 </p>
 
----
-<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
+
 
 
 
