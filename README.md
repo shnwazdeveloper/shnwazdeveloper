@@ -13,3 +13,19 @@
     <img src="https://img.shields.io/badge/▶%20Play%20Video-Click%20Here-blue?style=for-the-badge">
   </a>
 </p>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Video</title>
+</head>
+<body style="margin:0;background:black;">
+
+<video autoplay loop controls style="width:100%; height:100vh;">
+  <source src="dua.mp4" type="video/mp4">
+</video>
+
+</body>
+</html>
