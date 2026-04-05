@@ -8,7 +8,7 @@
   height="800"
   style="display:block; margin: 10px auto;"
 />
-  ᴀʙᴏᴜᴛ ᴍᴇ
+ᴬᴮᴼᵁᵀ ᴹᴱ
   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
 
 𝐌ʏ 𝐋ᴏᴠᴇ 𝐅ᴏʀ 𝐘ᴏᴜ 𝐈ꜱ 𝐀 𝐉ᴏᴜʀɴᴇʏ, 𝐒ᴛᴀʀᴛɪɴɢ 𝐀ᴛ 𝐄ᴠᴇʀ 𝐀ɴᴅ 𝐄ɴᴅɪɴɢ 𝐀ᴛ 𝐍ᴇᴠᴇʀ
