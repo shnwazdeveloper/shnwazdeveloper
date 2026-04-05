@@ -7,3 +7,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="dua.mp4">
+    <img src="https://img.shields.io/badge/▶%20Play%20Video-Click%20Here-blue?style=for-the-badge">
+  </a>
+</p>
